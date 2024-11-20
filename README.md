@@ -1,6 +1,9 @@
 # Bake Me Happy
 Bake Me Happy 🍰
 Welcome to Bake Me Happy, the ultimate online destination for delicious, freshly baked cakes and pastries! Our e-commerce website makes it easy to browse our menu, customize your orders, and have your favorite treats delivered right to your doorstep. Whether you're celebrating a special occasion or just craving something sweet, we’ve got you covered.
+![0](bakemehappypics/homepage.png)
+
+
 ## Table of Contents
 - [Setup](#setup)
 - [Screenshots](#screenshots)
@@ -14,11 +17,11 @@ Welcome to Bake Me Happy, the ultimate online destination for delicious, freshly
 ## Screenshots
 **Customer**
 - Cake Menu
-![image](https://github.com/tinebasilio/Bake-Me-Happy/assets/92997362/3acf3974-91a3-4350-822e-2af84ad9c44c)
+![1](bakemehappypics/menu.png)
 - Cake Details
-![image](https://github.com/tinebasilio/Bake-Me-Happy/assets/92997362/ea638bf0-b831-4f56-9e8a-4d2e5fa43eb2)
+![2](bakemehappypics/cakedeets.png)
 - Cart (with checkout form)
-![image](https://github.com/nylon-n/Bake-Me-Happy/assets/92997362/03f300f4-8676-4e9e-8a70-8fdc5db4bf89)
+![3](bakemehappypics/cart.png)
 - Order summary
-![image](https://github.com/nylon-n/Bake-Me-Happy/assets/92997362/9b066332-14dd-4ff8-915e-abe89c49c0a3)
+![4](bakemehappypics/ordersum.png)
 # bakemehappy
