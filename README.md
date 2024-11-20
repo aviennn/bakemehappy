@@ -1,6 +1,7 @@
 # Bake Me Happy
 Bake Me Happy 🍰
 Welcome to Bake Me Happy, the ultimate online destination for delicious, freshly baked cakes and pastries! Our e-commerce website makes it easy to browse our menu, customize your orders, and have your favorite treats delivered right to your doorstep. Whether you're celebrating a special occasion or just craving something sweet, we’ve got you covered.
+
 ![0](bakemehappypics/homepage.png)
 
 
