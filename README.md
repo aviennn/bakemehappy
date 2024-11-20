@@ -1,8 +1,6 @@
 # Bake Me Happy
-<p align="center">
-  <img src="https://github.com/tinebasilio/Bake-Me-Happy/assets/92997362/ed96373a-a13a-4c38-a23a-e0a203c5b9e5">
-</p>
-
+Bake Me Happy 🍰
+Welcome to Bake Me Happy, the ultimate online destination for delicious, freshly baked cakes and pastries! Our e-commerce website makes it easy to browse our menu, customize your orders, and have your favorite treats delivered right to your doorstep. Whether you're celebrating a special occasion or just craving something sweet, we’ve got you covered.
 ## Table of Contents
 - [Setup](#setup)
 - [Screenshots](#screenshots)
